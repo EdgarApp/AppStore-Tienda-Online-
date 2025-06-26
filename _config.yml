@@ -1,0 +1,14 @@
+# Archivo de configuración básico para GitHub Pages con tema Jekyll
+
+theme: jekyll-theme-minimal
+
+# Título del sitio
+title: Aplicación Edgar - Tienda de Camisetas
+
+# Descripción del sitio
+description: Tienda online de camisetas con ofertas y contacto vía WhatsApp
+
+# URL base (ajusta si usas dominio personalizado)
+url: https://edgarapp.github.io/AppStore-Tienda-Online
+
+# Otros ajustes que quieras agregar
